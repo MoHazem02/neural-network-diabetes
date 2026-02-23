@@ -135,7 +135,7 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
 
 ## 📹 Video Presentation
 
-[[Link to recorded video presentation explaining the project]](https://drive.google.com/file/d/1EGwTGw8OPMDgxMjQ4zy6w6cZfVOF3_JT/view?usp=sharing)
+[Link to recorded video presentation explaining the project](https://drive.google.com/file/d/1EGwTGw8OPMDgxMjQ4zy6w6cZfVOF3_JT/view?usp=sharing)
 
 ---
 
