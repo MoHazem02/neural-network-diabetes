@@ -120,7 +120,7 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
 ### Execution
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/neural-network-diabetes.git
+   git clone https://github.com/MoHazem02/neural-network-diabetes.git
    cd neural-network-diabetes
    ```
 
@@ -135,21 +135,13 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
 
 ## 📹 Video Presentation
 
-[Link to recorded video presentation explaining the project]
-
----
-
-## 📚 References
-
-1. Smith, J.W., et al. (1988). "Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus"
-2. UCI Machine Learning Repository: [Pima Indians Diabetes Dataset](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes)
-3. Keras Documentation: [Sequential Model Guide](https://keras.io/guides/sequential_model/)
+[[Link to recorded video presentation explaining the project]](https://drive.google.com/file/d/1EGwTGw8OPMDgxMjQ4zy6w6cZfVOF3_JT/view?usp=sharing)
 
 ---
 
 ## 👤 Author
 
-Mohamed - Data Analytics Course Assignment
+Mohamed - Deep Learning Course Assignment
 
 ---
 
